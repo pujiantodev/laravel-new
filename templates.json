@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "laravel-flowbite-starter-kit",
+            "package": "pujiantodev/laravel-flowbite-starter-kit",
+            "repo": "pujiantodev/laravel-flowbite-starter-kit"
         }
     ]
 }
